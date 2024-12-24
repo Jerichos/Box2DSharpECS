@@ -1,5 +1,3 @@
-using System;
-
 namespace Box2DSharp.Dynamics
 {
     /// Solver Data

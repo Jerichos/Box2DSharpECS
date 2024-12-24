@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using Box2DSharp.Common;
 
 namespace Box2DSharp.Dynamics.Contacts
 {

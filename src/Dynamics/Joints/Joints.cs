@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Numerics;
-using System.Xml.XPath;
 using Box2DSharp.Common;
 
 namespace Box2DSharp.Dynamics.Joints
